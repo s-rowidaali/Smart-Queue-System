@@ -1,0 +1,8 @@
+7
+101 5 0 6 emergency
+102 3 10 8 regular
+103 4 5 7 vip
+401 2 30 10 regular
+201 4 3 6 vip
+301 3 12 9 regular
+302 2 18 11 regular
